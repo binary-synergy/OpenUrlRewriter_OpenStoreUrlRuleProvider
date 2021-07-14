@@ -1,0 +1,2 @@
+# OpenUrlRewriter_OpenStoreUrlRuleProvider
+OpenUrlRewriter Provider for OpenStore
